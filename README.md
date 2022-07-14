@@ -1,4 +1,4 @@
-<h1 align="center">Hi🏿, I'm Jan</h1>
+<h1 align="center">Hi, I'm Jan</h1>
 <h3 align="center">A Developer and Founder from Germany</h3>
 
 - 🔭 Currently I work on my own Company SAG-Solutions
