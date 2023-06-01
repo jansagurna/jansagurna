@@ -1,6 +1,12 @@
-<h1 align="center">Hi, I'm Jan</h1>
-<h3 align="center">A Developer and Founder from Germany</h3>
+<h1 align="center">Hi 👋, I am Jan</h1>
 
-- 🔭 Currently working on same fancy Projects
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jansagurna" alt="jansagurna" /></a> </p>
 
-- 📫 You can reach me on Twitter @jansagurna
+- 🔭 I’m currently working on [SAG-Solutions](www.sag-solutions.com)
+
+- 📫 How to reach me **jan.sagurna@sag-solutions.com**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jansagurna&show_icons=true&locale=en&layout=compact" alt="jansagurna" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jansagurna&show_icons=true&locale=en" alt="jansagurna" /></p>
