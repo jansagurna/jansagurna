@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I am Jan</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jansagurna" alt="jansagurna" /></a> </p>
-
 - 🔭 I’m currently working on [SAG-Solutions](www.sag-solutions.com)
 
 - 📫 How to reach me **jan.sagurna@sag-solutions.com**
